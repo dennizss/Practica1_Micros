@@ -1,4 +1,5 @@
 Denniz Sagarnaga
 
-if(Light -- Red)
-Turn on servo
+MOWF 0X00
+NOP
+NOP
